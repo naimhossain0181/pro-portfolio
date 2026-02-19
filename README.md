@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,29 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# 🚀 Pro Themed Portfolio
+
+A modern, theme-switching developer portfolio built with Next.js and Tailwind.
+
+## ✨ Features
+- 5 Color Themes
+- Light / Dark Mode
+- Full Width / Boxed Layout
+- Smooth Animations
+- Fully Responsive
+
+## 🛠 Tech Stack
+- Next.js
+- Tailwind CSS
+- Framer Motion
+- TypeScript
+
+## 📦 Installation
+
+npm install
+npm run dev
+
+## 🌍 Live Demo
+Coming Soon
+>>>>>>> 4436844407445dfc42bb7e8d8f12a88b89f98ff1
